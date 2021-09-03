@@ -1,0 +1,5 @@
+*temperature_regulation
+.include ../AE01.10.16.021.cir"
+.step param Rntc list 100k 10k 1k
+.param VDIMM=5
+.tran 0 20m 0 uic

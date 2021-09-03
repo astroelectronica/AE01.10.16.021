@@ -1,0 +1,6 @@
+Rev.2
+Including bypass capacitors
+
+Ref.
+DC Voltage Controls PWM Dimming of High-Brightness LEDs (HB LEDs)
+https://www.maximintegrated.com/en/design/technical-documents/app-notes/4/4509.html

@@ -1,0 +1,5 @@
+*control regulation
+.include ../AE01.10.16.021.cir
+.param Rntc=100k
+.step param VDIMM list 1 4 7 9
+.tran 0 50m 0 uic
